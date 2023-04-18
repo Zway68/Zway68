@@ -2,7 +2,7 @@
 - 👀 I’m interested in database technology
 - 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on database/data related projects
-- 📫 How to reach me ziweideng68@163.com
+- 📫 How to reach me zoe.airea@gmail.com
 
 <!---
 Zway68/Zway68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
